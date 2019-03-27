@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+List.create(
+  title: "Top E-Learning Courses to Lear",
+  excerpt: "A list of some online resources to learn new programming skills",
+)
+
+List.create(
+  title: "Project Ideas on the Fly",
+  excerpt: "A list of some of my project ideas and their stack",
+)
